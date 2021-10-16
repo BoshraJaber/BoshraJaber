@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Boshra Jaber</h1>
 <h3 align="center">A passionate full stack developer</h3>
+<div align="center">
 
 - 🌱 I’m currently learning **.Net, C# and, Python**
 
 - 📫 How to reach me **boshrajaber94@gmail.com**
+ 
+ </div>
 
 <div align="center">
 
