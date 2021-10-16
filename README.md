@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Boshra Jaber</h1>
 <h3 align="center">A passionate full stack developer</h3>
-<div align="center">
+<div align="left">
 
 - 🌱 I’m currently learning **.Net, C# and, Python**
 
 - 📫 How to reach me **boshrajaber94@gmail.com**
  
  </div>
+ 
+ <a href="https://app.daily.dev/BoshraJaber"><img src="https://api.daily.dev/devcards/fb1ac408e9414da6a7a120477aa59bac.png?r=gjx" width="400" alt="Boshra Jaber's Dev Card"/></a>
 
 <div align="center">
 
