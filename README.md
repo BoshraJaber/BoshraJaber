@@ -8,12 +8,12 @@
  
  </div>
  
- <a href="https://app.daily.dev/BoshraJaber"><img src="https://api.daily.dev/devcards/fb1ac408e9414da6a7a120477aa59bac.png?r=gjx" width="400" alt="Boshra Jaber's Dev Card"/></a>
+ <a  align=right href="https://app.daily.dev/BoshraJaber"><img src="https://api.daily.dev/devcards/fb1ac408e9414da6a7a120477aa59bac.png?r=gjx" width="400" alt="Boshra Jaber's Dev Card"/></a>
 
-<div align="center">
+<div align="left">
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/boshrajaber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boshrajaber" height="30" width="40" /></a>
 </p>
  </div>
