@@ -7,8 +7,9 @@
 - 📫 How to reach me **boshrajaber94@gmail.com**
  
  </div>
- 
- <a  align=right href="https://app.daily.dev/BoshraJaber"><img src="https://api.daily.dev/devcards/fb1ac408e9414da6a7a120477aa59bac.png?r=gjx" width="400" alt="Boshra Jaber's Dev Card"/></a>
+ <div align="right">
+ <a  align="right" href="https://app.daily.dev/BoshraJaber"><img src="https://api.daily.dev/devcards/fb1ac408e9414da6a7a120477aa59bac.png?r=gjx" width="400" alt="Boshra Jaber's Dev Card"/></a>
+ </div>
 
 <div align="left">
 
