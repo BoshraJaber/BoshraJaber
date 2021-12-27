@@ -31,5 +31,6 @@
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=boshrajaber&count_private=true&show_icons=true&locale=en&layout=compact" alt="boshrajaber" /></p>
+[](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boshrajaber&" alt="boshrajaber" /></p>
