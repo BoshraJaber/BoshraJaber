@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **.Net, C# and, Python**
+- 🌱 I’m currently learning **.Net and C#**
 
 - 📫 How to reach me **boshrajaber94@gmail.com**
  
