@@ -31,3 +31,12 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=boshrajaber&count_private=true&show_icons=true&locale=en&layout=compact&langs_count=10" alt="boshrajaber" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boshrajaber&" alt="boshrajaber" /></p>
+
+
+<!-- 
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/> -->
+
