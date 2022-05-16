@@ -54,7 +54,7 @@ Text         1 min           ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-![GitHub Snake Light](dist/github-contribution-grid-snake.svg)
+<!-- ![GitHub Snake Light](dist/github-contribution-grid-snake.svg) -->
 ![](dist/github-contribution-grid-snake-dark.svg?palette=github-dark)
 <!-- ![](dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9) -->
 
