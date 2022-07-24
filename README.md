@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **.Net and C#**
+- 🌱 I’m currently learning **Dart and Flutter**
 
 - 📫 How to reach me **boshrajaber94@gmail.com**
  
