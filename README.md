@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **boshrajaber94@gmail.com**
 
-- My Business Card : `npx boshrajaber`
+- 💻 My Business Card : `npx boshrajaber`
  
 
  
