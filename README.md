@@ -14,7 +14,7 @@
 
 - 💻 My Business Card : `npx boshrajaber`
 
-- 📜 [Resume website](https://boshrajaber.github.io/Boshra-Jaber-Resume/){:target="_blank"}
+- 📜 <a href="[http://example.com/"](https://boshrajaber.github.io/Boshra-Jaber-Resume/) target="_blank">Resume website</a>
  
 
  
