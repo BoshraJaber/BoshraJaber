@@ -6,7 +6,18 @@
 
  <a  align="right" href="https://app.daily.dev/BoshraJaber"><img align="right" src="https://api.daily.dev/devcards/fb1ac408e9414da6a7a120477aa59bac.png?r=gjx" width="400" alt="Boshra Jaber's Dev Card"/></a>
 
+<!-- <style>
+ a {
+    color: #0060B6;
+    text-decoration: none;
+}
 
+a:hover {
+    color:#00A0C6; 
+    text-decoration:none; 
+    cursor:pointer;  
+}
+ </style> -->
 
 - 🌱 I’m currently learning **Dart and Flutter**
 
@@ -14,7 +25,7 @@
 
 - 💻 My Business Card : `npx boshrajaber`
 
-- 📜 <a href="[http://example.com/"](https://boshrajaber.github.io/Boshra-Jaber-Resume/) target="_blank">Resume website</a>
+- 📜 <a href="https://boshrajaber.github.io/Boshra-Jaber-Resume/" target="_blank" style="text-decoration: none; color;black"> Resume website </a>
  
 
  
