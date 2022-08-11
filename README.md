@@ -13,6 +13,8 @@
 - 📫 How to reach me **boshrajaber94@gmail.com**
 
 - 💻 My Business Card : `npx boshrajaber`
+
+- 📜 [Resume website](https://boshrajaber.github.io/Boshra-Jaber-Resume/)
  
 
  
