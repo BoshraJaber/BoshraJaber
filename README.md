@@ -41,7 +41,7 @@ a:hover {
 
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=boshrajaber&count_private=true&show_icons=true&locale=en&layout=compact&langs_count=10" alt="boshrajaber" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=boshrajaber&count_private=true&show_icons=true&locale=en&layout=compact&langs_count=8" alt="boshrajaber" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boshrajaber&" alt="boshrajaber" /></p>
 
