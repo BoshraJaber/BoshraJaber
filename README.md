@@ -5,6 +5,8 @@
 
 
  <a  align="right" href="https://app.daily.dev/BoshraJaber"><img align="right" src="https://api.daily.dev/devcards/fb1ac408e9414da6a7a120477aa59bac.png?r=gjx" width="400" alt="Boshra Jaber's Dev Card"/></a>
+ 
+[![@boshrajaber's Holopin board](https://holopin.me/boshrajaber)](https://holopin.io/@boshrajaber)
 
 <!-- <style>
  a {
@@ -63,5 +65,4 @@ a:hover {
 <!-- ![](dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9) -->
 
          
-          
-          
+ [![@boshrajaber's Holopin board](https://holopin.me/boshrajaber)](https://holopin.io/@boshrajaber)
