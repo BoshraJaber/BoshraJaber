@@ -1,4 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&duration=6000&color=4D1928&background=E5F9FF00&center=true&vCenter=true&multiline=true&width=450&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Boshra+Jaber;A+passionate+Full-Stack+Developer+%2FInstructor)](https://git.io/typing-svg)
+<!-- 
+[![GitHub followers](https://img.shields.io/github/followers/BoshraJaber.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/BoshraJaber?tab=followers) -->
+
 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boshrajaber&label=Profile%20views&color=0e75b6&style=flat" alt="boshrajaber" /> </p>
