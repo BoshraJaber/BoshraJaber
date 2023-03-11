@@ -23,7 +23,7 @@ a:hover {
 }
  </style> -->
 
-- 🌱 I’m currently learning **Dart and Flutter**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **boshrajaber94@gmail.com**
 
