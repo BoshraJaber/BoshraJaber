@@ -23,7 +23,7 @@ a:hover {
 }
  </style> -->
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **boshrajaber94@gmail.com**
 
