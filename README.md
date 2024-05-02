@@ -7,7 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boshrajaber&label=Profile%20views&color=0e75b6&style=flat" alt="boshrajaber" /> </p>
 
 
- <a  align="right" href="https://app.daily.dev/BoshraJaber"><img align="right" src="https://api.daily.dev/devcards/fb1ac408e9414da6a7a120477aa59bac.png?r=gjx" width="400" alt="Boshra Jaber's Dev Card"/></a>
 
 
 <!-- <style>
